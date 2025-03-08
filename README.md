@@ -15,3 +15,6 @@ Thats it, now you can access server on  http://localhost:8000 and for api docs o
 
 ![image](https://github.com/user-attachments/assets/04a2d7db-42f7-455a-b16a-74ca7e24c381)
 
+![image](https://github.com/user-attachments/assets/04a2d7db-42f7-455a-b16a-74ca7e24c381)
+
+
